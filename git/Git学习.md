@@ -97,7 +97,7 @@ git add .    添加所有文件
 
 使用git status 查看状态后， 文件都已经被添加， 这时我们使用命令
 
-git commit -m '备注'
+git commit -m'备注'
 
 
 
